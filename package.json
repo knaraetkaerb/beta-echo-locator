@@ -1,0 +1,34 @@
+{
+  "name": "beta-echo-locator",
+  "version": "1.0.0",
+  "description": "Locates echoes in the beta sound, providing acoustic analysis and sound wave mapping in digital auditory landscapes.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/beta-echo-locator"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "phantom-signal-processor": "1.0.0",
+    "cosmic-vine-cultivator": "1.0.0",
+    "webpack": "1.0.0",
+    "react-redux": "1.0.0",
+    "bcrypt": "1.0.0",
+    "babel-core": "1.0.0",
+    "axios": "1.0.0",
+    "mysql": "1.0.0",
+    "validator": "1.0.0",
+    "request": "1.0.0",
+    "xml2js": "1.0.0",
+    "moment": "1.0.0",
+    "express": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "ethers": "1.0.0"
+  }
+}
